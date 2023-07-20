@@ -19,7 +19,7 @@ Authors official PyTorch implementation of the **[HyperReenact: One-Shot Reenact
             exhibiting remarkable robustness even under extreme head pose changes. 
 
 <a href=""><img src="https://img.shields.io/badge/arXiv-2202.00046-b31b1b.svg" height=22.5></a>
-<a href="https://stelabou.github.io/hyperreenact/"><img src="https://img.shields.io/badge/Page-Demo-darkgreen.svg" height=22.5></a>
+<a href="https://stelabou.github.io/hyperreenact.github.io/"><img src="https://img.shields.io/badge/Page-Demo-darkgreen.svg" height=22.5></a>
 
 
 ## Neural Face Reenactment Results
