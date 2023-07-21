@@ -18,7 +18,7 @@ Authors official PyTorch implementation of the **[HyperReenact: One-Shot Reenact
             techniques on the standard benchmarks of VoxCeleb1 and VoxCeleb2, demonstrating the superiority of our approach in producing artifact-free images, 
             exhibiting remarkable robustness even under extreme head pose changes. 
 
-<a href="https://arxiv.org/abs/2307.10797"><img src="https://img.shields.io/badge/arXiv-2202.00046-b31b1b.svg" height=22.5></a>
+<a href="https://arxiv.org/abs/2307.10797"><img src="https://img.shields.io/badge/arXiv-2307.10797-b31b1b.svg" height=22.5></a>
 <a href="https://stelabou.github.io/hyperreenact.github.io/"><img src="https://img.shields.io/badge/Page-Demo-darkgreen.svg" height=22.5></a>
 
 
