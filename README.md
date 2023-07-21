@@ -1,6 +1,6 @@
 # HyperReenact: One-Shot Reenactment via Jointly Learning to Refine and Retarget Faces
 
-Authors official PyTorch implementation of the **[HyperReenact: One-Shot Reenactment via Jointly Learning to Refine and Retarget Faces (ICCV 2023)]()**. If you use this code for your research, please [**cite**](#citation) our paper.
+Authors official PyTorch implementation of the **[HyperReenact: One-Shot Reenactment via Jointly Learning to Refine and Retarget Faces (ICCV 2023)](https://arxiv.org/abs/2307.10797)**. If you use this code for your research, please [**cite**](#citation) our paper.
 
 <p align="center">
 <img src="images/architecture.png" style="width: 750px"/>
