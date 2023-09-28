@@ -75,8 +75,8 @@ Please download all models and save them under `./pretrained_models` path.
 Given as input a source frame (.png or .jpg) and a target video (.png or .jpg, .mp4 or a directory with images), reenact the source face. 
 ```
 python run_inference.py --source_path ./inference_examples/source.png \
-							--target_path ./inference_examples/target_video_1.mp4 \
-							--output_path ./results --save_video
+		--target_path ./inference_examples/target_video_1.mp4 \
+		--output_path ./results --save_video
 ```
 
 ## Citation
