@@ -1,0 +1,13 @@
+scipy
+matplotlib
+imageio
+Pillow
+opencv-python
+tqdm
+scikit-image
+sklearn
+wandb
+face-alignment
+kornia==0.4.1
+pandas
+numpy==1.23.5
